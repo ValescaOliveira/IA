@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0d19b8cdfb631c64",
+        "type": "watson-assistant-v2",
+        "z": "e59f9dcbafa8a1bd",
+        "name": "Ricardina",
+        "service-endpoint": "https://api.au-syd.assistant.watson.cloud.ibm.com/instances/7510e1d0-3ed4-414c-b4b0-9bc920b20adc",
+        "assistant_id": "2bd63532-8c8d-486e-911a-4b1a57f00bfe",
+        "debug": false,
+        "restart": false,
+        "return_context": true,
+        "alternate_intents": false,
+        "multisession": true,
+        "timeout": "",
+        "optout-learning": false,
+        "persist-session-id": false,
+        "x": 540,
+        "y": 220,
+        "wires": [
+            [
+                "55a7d10c960af13a",
+                "41ac3ceeab10893e"
+            ]
+        ]
+    }
+]
